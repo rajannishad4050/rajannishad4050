@@ -1,5 +1,5 @@
 <div align='center'>
-<img align="center" alt="GIF" src="https://github.com/rajannishad4050/rajannishad4050/raw/main/code.gif?raw=true" height="320" style="max-width: 140%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="center" alt="GIF" src="https://github.com/rajannishad4050/rajannishad4050/raw/main/banner.png?raw=true" height="320" style="max-width: 140%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 <h1 align="center">Hi, I'm Rajan nishad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
