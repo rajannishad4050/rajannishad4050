@@ -1,14 +1,7 @@
-<div align="center" dir="auto">
-<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-</div>
+## Hey 👋, This is Rajan Nishad
+[![Gmail Badge](https://img.shields.io/badge/-Rajannishad4050@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Rajannishad4050@gmail.com)](mailto:Rajannishad4050@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=rajannishad.netlify.com/)](rajannishad.netlify.com/) <p align='left'>I am a Frontend Developer </p>
 
-<h2 align='center'>Front End Web Developer</h2>
-
-<style>
-    #skills {border-bottom: none}
-</style>
-
-<h2 align="left" id='skills'> Skills</h2>
+<h3> Skills</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
