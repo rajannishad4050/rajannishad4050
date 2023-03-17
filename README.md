@@ -8,6 +8,8 @@ I'm Adrian from Australia, and I do content on Design and Development. I really 
 * ⚛ React
 * 📱 Typescript
 * 💻 HTML, CSS, JS
+                  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajannishad4050)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Examples of Work
