@@ -7,7 +7,7 @@ I'm Adrian from Australia, and I do content on Design and Development. I really 
 ## Skills and Experience
 * ⚛ React
 * 📱 Typescript
-* 💻 HTML, CSS, JAVASCRIPT
+* 💻 HTML, CSS, JS
 
 
 ## Examples of Work
