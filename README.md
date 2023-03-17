@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<h3 align="left">I am a passionate frontend developer from India</h3>
+<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<h3 align="center">I am a passionate frontend developer from India</h3>
 
 <p align="left">
 </p>
