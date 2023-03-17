@@ -1,7 +1,7 @@
-<div align-'center'>
+<div align='center'>
 <img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
-<h1 align="center">Hi 👋, I'm Rajan nishad</h1>
+<h1 align="center">Hi, I'm Rajan nishad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
