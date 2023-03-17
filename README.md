@@ -9,7 +9,7 @@ I'm Adrian from Australia, and I do content on Design and Development. I really 
 * 📱 Typescript
 * 💻 HTML, CSS, JS
 
-<div align='center'>
+<div align='center' style="display: flex; gap: 5px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" align="center"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" align="center">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" align="center"/>
