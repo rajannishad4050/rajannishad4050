@@ -1,8 +1,5 @@
 <div align="center" dir="auto">
-<animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only" target="_blank">
-      </span></animated-image>
+<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 
 <h3 align="left"> Skills</h3>
