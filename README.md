@@ -4,7 +4,7 @@
 <h1 align="center"> 👨‍💻About Me</h1>
 I'm Rajan nishad and i am a Frontend Developer. I really enjoy coding and learning languages and frameworks like javascript and react. I also enjoy building websites. 
 
-## ⚙Skills and Experience
+## ⚙ Skills and Experience
 * ⚛ React
 * 📱 Typescript
 * 💻 HTML, CSS, JS
