@@ -1,7 +1,7 @@
 <div align='center'>
 <img align="center" alt="GIF" src="https://github.com/rajannishad4050/rajannishad4050/raw/main/github-header-image (3).png?raw=true" height="100%" style="width: 100%"; display: inline-block;" data-target="animated-image.originalImage">
 </div>
-<h1 align="center"> 👨‍💻 About Me</h1>
+<h1 align="center"> 👨‍💻About Me</h1>
 I'm Rajan nishad and i am a Frontend Developer. I really enjoy coding and learning languages and frameworks like javascript and react. I also enjoy building websites. 
 
 ## ⚙ Skills and Experience
