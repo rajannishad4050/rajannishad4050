@@ -18,6 +18,6 @@ I'm Rajan nishad and i am a Frontend Developer. I really enjoy coding and learni
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="33" height="33" align="center"/>                  
 </div>
                   
-## 🖥🖥🖥🖥💾🖨Examples of Work
+## 💾Examples of Work
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
 
