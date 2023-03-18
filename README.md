@@ -20,5 +20,5 @@ I'm Rajan nishad and i am a Frontend Developer. I really enjoy coding and learni
                   
 ## 🖥 Examples of Work
 <img src="https://github.com/rajannishad4050/rajannishad4050/raw/main/forex-trading-project.jpg" width="512" >
-<a href='https://forex-tranding-simulator.netlify.com/' style="font-size: 30px" align='center'>Visit Website</a>
+<a href='https://forex-tranding-simulator.netlify.com/'>Visit Website</a>
 
