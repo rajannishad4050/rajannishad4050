@@ -1,5 +1,5 @@
 <div align='center'>
-<img align="center" alt="GIF" src="https://github.com/rajannishad4050/rajannishad4050/raw/main/banner.png?raw=true" height="80%" style="width: 80%"; display: inline-block;" data-target="animated-image.originalImage">
+<img align="center" alt="GIF" src="https://github.com/rajannishad4050/rajannishad4050/raw/main/github-header-image (1).png?raw=true" height="80%" style="width: 80%"; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 <h1 align="center">Hi there 👋, I'm Rajan nishad</h1>
 I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
