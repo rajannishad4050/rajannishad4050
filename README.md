@@ -20,22 +20,22 @@ I'm Rajan nishad and i am a Frontend Developer. I really enjoy coding and learni
                   
 ## 🖥 My Works
 <img src="https://github.com/rajannishad4050/rajannishad4050/raw/main/forex-trading-project.jpg" width="450" >
-<a href='https://forex-trading-simulator.netlify.com/'>Visit Website</a>
+<a href='https://forex-trading-simulator.netlify.com/'>Visit Website => Forex Trading Simualation</a>
                                                                                                            
 <p align='left'></p>                                                                                                              
                                                                                                             
 <img src="https://github.com/rajannishad4050/rajannishad4050/raw/main/score.jpg" width="450" >
-<a href='https://fruit-basket-game.netlify.com/'>Visit Website</a>
+<a href='https://fruit-basket-game.netlify.com/'>Visit Website => Fruit Basket Game</a>
                                                                                             
 <p align='left'></p>
     
 <img src="https://github.com/rajannishad4050/rajannishad4050/raw/main/personal-site.jpg" width="450" >
-<a href='https://rajan-nishad.netlify.com/'>Visit Website</a>  
+<a href='https://rajan-nishad.netlify.com/'>Visit Website => Portfolio site</a>  
                                                                                                     
 <p align='left'></p> 
                                                                                                     
 <img src="https://github.com/rajannishad4050/rajannishad4050/raw/main/zomato-project.jpg" width="450" >
-<a href='https://zomato-homepage-clone.netlify.com/'>Visit Website</a>
+<a href='https://zomato-homepage-clone.netlify.com/'>Visit Website => Zomato Homepage Clone</a>
  
 <h3 align='center'>Please don't mind the countribution activity i have recently created this github account and have a nice day😊</h3>
 
