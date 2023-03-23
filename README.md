@@ -29,8 +29,11 @@ I'm Rajan nishad and i am a Frontend Developer. I really enjoy coding and learni
                                                                                             
 <p align='left'></p>
     
-<img src="https://github.com/rajannishad4050/rajannishad4050/raw/main/personal-sites.jpg" width="700" >
+<img src="https://github.com/rajannishad4050/rajannishad4050/raw/main/personal-site.jpg" width="700" >
 <a href='https://fruit-basket-game.netlify.com/'>Visit Website</a>                                                                                            
-                                                                                            
+ 
+ <img src="https://github.com/rajannishad4050/rajannishad4050/raw/main/zomato-homepage.jpg" width="700" >
+<a href='https://fruit-basket-game.netlify.com/'>Visit Website</a>
+ 
 <h3 align='center'>Please don't mind the countribution activity i have recently created this github account and have a nice day😊</h3>
 
