@@ -29,13 +29,12 @@ I'm Rajan nishad and i am a Frontend Developer. I really enjoy coding and learni
                                                                                             
 <p align='left'></p>
     
-<img src="https://github.com/rajannishad4050/rajannishad4050/raw/main/personal-site.jpg" width="450" >
-<a href='https://rajan-nishad.netlify.com/'>Visit Website</a>  
-                                                                                                    
+<img src="https://github.com/rajannishad4050/rajannishad4050/raw/main/zomato-project.jpg" width="450" >
+<a href='https://zomato-homepage-clone.netlify.com/'>Visit Website</a>                                                                                                                                                                                                      
 <p align='left'></p> 
                                                                                                     
-<img src="https://github.com/rajannishad4050/rajannishad4050/raw/main/zomato-project.jpg" width="450" >
-<a href='https://zomato-homepage-clone.netlify.com/'>Visit Website</a>
+<img src="https://github.com/rajannishad4050/rajannishad4050/raw/main/personal-site.jpg" width="450" >
+<a href='https://rajan-nishad.netlify.com/'>Visit Website</a> 
  
 <h3 align='center'>Please don't mind the countribution activity i have recently created this github account and have a nice day😊</h3>
 
